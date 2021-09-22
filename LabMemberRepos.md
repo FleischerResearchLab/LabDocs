@@ -1,1 +1,1 @@
-(Jason Fleischer)[https://github.com/jasongfleischer]
+[Jason Fleischer](https://github.com/jasongfleischer)
